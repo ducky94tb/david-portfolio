@@ -1,0 +1,3 @@
+# app-ads.txt — authorized digital sellers (IAB spec 1.0)
+# Sổ Vàng (com.ducky.gold_tracker / com.ducky.goldTracker) — AdMob only
+google.com, pub-2089873880879307, DIRECT, f08c47fec0942fa0
